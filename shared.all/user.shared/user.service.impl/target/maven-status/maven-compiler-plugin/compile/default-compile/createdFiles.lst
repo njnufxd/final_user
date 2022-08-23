@@ -1,6 +1,0 @@
-com\geekgame\demo\dao\UserDAO.class
-com\geekgame\demo\config\CorsConfig.class
-com\geekgame\demo\service\impl\UserServiceImpl.class
-com\geekgame\demo\config\KaptchaConfig.class
-com\geekgame\demo\dataobject\UserDO.class
-com\geekgame\demo\config\SpringHttpSessionConfig.class

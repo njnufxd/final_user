@@ -1,6 +1,0 @@
-com\geekgame\demo\model\User.class
-com\geekgame\demo\service\UserService.class
-com\geekgame\demo\model\Paging.class
-com\geekgame\demo\model\Result.class
-com\geekgame\demo\model\UserLoginInfo.class
-com\geekgame\demo\util\SnowflakeIdGenerator.class

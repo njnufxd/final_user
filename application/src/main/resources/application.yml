@@ -15,10 +15,10 @@ logging:
 
 spring:
   datasource:
-    password: ZABzueZ3
-    url: jdbc:mysql://sh-cynosdbmysql-grp-knpl8owi.sql.tencentcdb.com:21104/final?serverTimezone=GMT%2B8
+    password: xxxxxxxx
+    url:  xxxxxxxx
     username: root
-    type: com.alibaba.druid.pool.DruidDataSource
+    type:  xxxxxxxx
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jackson:
@@ -27,8 +27,8 @@ spring:
       fail-on-unknown-properties: false
 
   redis:
-    host: 182.92.185.137
-    password: 423414a.
+    host: xxx.xxx.xxx.xxx
+    password:  xxxxxxxx
     port: 6379
 
 
